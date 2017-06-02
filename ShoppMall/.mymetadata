@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ShoppMall"
+  id="myeclipse.1496283776082"
+  context-root="/ShoppMall"
+  j2ee-spec="6.0"
+  archive="ShoppMall.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
